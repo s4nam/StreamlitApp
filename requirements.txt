@@ -1,0 +1,6 @@
+scikit-learn
+openvc-python-headless
+pillow
+numpy
+joblib
+scikit-image
